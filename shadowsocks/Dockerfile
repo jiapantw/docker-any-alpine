@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine
 
 RUN apk -U add --no-cache py-pip
 

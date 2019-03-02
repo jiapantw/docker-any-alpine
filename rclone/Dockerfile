@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine
 
 ENV RCLONE_VERSION=current
 ENV ARCH=amd64
