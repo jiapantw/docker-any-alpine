@@ -1,6 +1,6 @@
-# docker-alpine
+# docker-any-alpine
 
-Docker image based on alpine linux image (monorepos).
+Docker image based on alpine linux image for any single apk
 
 ## Branches
 
@@ -10,7 +10,7 @@ Docker image based on alpine linux image (monorepos).
 
 > see README
 
-- [curl](https://github.com/jiapantw/docker-alpine/tree/master/curl)
-- [jq](https://github.com/jiapantw/docker-alpine/tree/master/jq)
-- [rclone](https://github.com/jiapantw/docker-alpine/tree/master/rclone)
-- [shadowsocks](https://github.com/jiapantw/docker-alpine/tree/master/shadowsocks)
+- [curl](https://github.com/jiapantw/docker-any-alpine/tree/master/curl)
+- [jq](https://github.com/jiapantw/docker-any-alpine/tree/master/jq)
+- [rclone](https://github.com/jiapantw/docker-any-alpine/tree/master/rclone)
+- [shadowsocks](https://github.com/jiapantw/docker-any-alpine/tree/master/shadowsocks)
